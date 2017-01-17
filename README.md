@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install campbell_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```Ruby
+@copyright = CampbellViewTool::Renderer.copyright 'Bradley Campbell', 'All rights reserved'
+```
 
 ## Development
 
