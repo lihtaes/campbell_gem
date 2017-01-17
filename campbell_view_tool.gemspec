@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications}
   spec.description   = %q{Provides generated HTML for Rails applications}
-  spec.homepage      = "https://localhost:3000/"
+  spec.homepage      = "https://bradleycampbell.com"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
